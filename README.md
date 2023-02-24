@@ -19,9 +19,14 @@ Source: “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from 
 
 For this project, the following tools and libraries were used:
 
-python (through Anaconda 3)
+Python (using Anaconda 3)
 Jupyter Notebooks
 Pandas
 Numpy
 Seaborn
 Matplotlib
+Scipy
+
+## Results
+
+Instacart currently has predictable ordering habits with peak purchase periods during the weekends and between midday and mid-afternoon. Instacart's most popular departments are produce, dairy/eggs, snacks, and beverages.  However, meat / seafood represent the highest-priced products. Most Instacart customers have placed less than 10 orders, but "regular" Instacart customers (those with between 10-40 orders) account for the majority of all Instacart orders. Using all of these details, Instacart can consider targeted-marketing campaigns to increase usage during less busy hours, by trying to promote customer retention, and by marketing categories with the highest profits to its regular customers while also marketing the most popular categories to potential new customers.
