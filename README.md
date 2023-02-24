@@ -19,13 +19,13 @@ Source: "[The Instacart Online Grocery Shopping Dataset 2017](https://www.instac
 
 For this project, the following tools and libraries were used:
 
-*Python (using Anaconda 3)
-*Jupyter Notebooks
-*Pandas
-*Numpy
-*Seaborn
-*Matplotlib
-*Scipy
+* Python (using Anaconda 3)
+* Jupyter Notebooks
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
+* Scipy
 
 ## Results
 
