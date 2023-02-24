@@ -9,9 +9,9 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 ## Data
 
 The dataset for this project was comprised of information about:
--orders
--products and their departments
--customer information and demographics (fabricated for the project)
+*orders
+*products and their departments
+*customer information and demographics (fabricated for the project)
 
 Source: "[The Instacart Online Grocery Shopping Dataset 2017](https://www.instacart.com/datasets/grocery-shopping-2017)"
 
@@ -19,13 +19,13 @@ Source: "[The Instacart Online Grocery Shopping Dataset 2017](https://www.instac
 
 For this project, the following tools and libraries were used:
 
--Python (using Anaconda 3)
--Jupyter Notebooks
--Pandas
--Numpy
--Seaborn
--Matplotlib
--Scipy
+*Python (using Anaconda 3)
+*Jupyter Notebooks
+*Pandas
+*Numpy
+*Seaborn
+*Matplotlib
+*Scipy
 
 ## Results
 
