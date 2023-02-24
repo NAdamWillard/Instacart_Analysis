@@ -7,6 +7,12 @@ This is a collection of python scripts, visualizations, and a summary report ana
 
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns.  The goal of this project was to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
+## Contents
+
+- The final report with all of the comprehensive information, including visualizations, transformations to the data, and final analysis, can be found in the "Sent to Client" folder.  
+- The scripts used to produce all of this can be found in the "Scripts" folder.  
+- All of the visualizations used in the report (and some which didn't make it into the final report) can be found in the "Visualizations" folder.
+
 ## Data
 
 The dataset for this project was comprised of information about:
