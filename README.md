@@ -13,7 +13,7 @@ The dataset for this project was comprised of information about:
 -products and their departments
 -customer information and demographics (fabricated for the project)
 
-Source: “(The Instacart Online Grocery Shopping Dataset 2017)[https://www.instacart.com/datasets/grocery-shopping-2017]”
+Source: “(The Instacart Online Grocery Shopping Dataset 2017)[https://www.instacart.com/datasets/grocery-shopping-2017]"
 
 ## Tools
 
