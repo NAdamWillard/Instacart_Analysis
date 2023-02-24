@@ -10,7 +10,7 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 ## Contents
 
 - The final report with all of the comprehensive information, including visualizations, transformations to the data, and final analysis, can be found in the "Sent to Client" folder.  
-- The scripts used to produce all of this can be found in the "Scripts" folder.  
+- The scripts used to analzye the dataset, derive new columns, and produce the visualizations can be found in the "Scripts" folder.  
 - All of the visualizations used in the report (and some which didn't make it into the final report) can be found in the "Visualizations" folder.
 
 ## Data
